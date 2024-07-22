@@ -4,7 +4,6 @@ This is  the source code for "Higher-order Enhanced Contrastive-based Graph Anom
 
 
 ## Requirements
-___
 - Python >= 3.7
 - Pytorch >= 1.10
 - Numpy >= 1.21.6
@@ -18,7 +17,6 @@ We have already put the datasets in folder named `data` and `dataset`.
 
 
 ## Running
-___
 Take Cora dataset as an example:
 
     python main.py --dataset cora
